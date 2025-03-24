@@ -1,0 +1,12 @@
+[2025-03-21 13:48:57,258] 30 root - INFO - DataProcessing Intialized
+[2025-03-21 13:48:59,369] 35 root - INFO - data loaded succcessfully
+[2025-03-21 13:49:03,320] 51 root - INFO - scalling done for processing
+[2025-03-21 13:49:03,742] 70 root - INFO - encoding done for User and anime
+[2025-03-21 13:49:05,583] 91 root - INFO - data splitted sucessfully
+[2025-03-21 13:49:05,615] 107 root - INFO - user2user_encoded saved successfully in processed directory
+[2025-03-21 13:49:05,630] 107 root - INFO - user2user_decoded saved successfully in processed directory
+[2025-03-21 13:49:05,677] 107 root - INFO - anime2anime_encoded saved successfully in processed directory
+[2025-03-21 13:49:05,740] 107 root - INFO - anime2anime_decoded saved successfully in processed directory
+[2025-03-21 13:49:18,398] 115 root - INFO -  All the files are successfully saved now
+[2025-03-21 13:49:26,516] 147 root - INFO - df and syopsis save successfully
+[2025-03-21 13:49:26,516] 162 root - INFO - Data Processing pipelien run sucessfully

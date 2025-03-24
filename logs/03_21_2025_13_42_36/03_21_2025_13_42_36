@@ -1,0 +1,5 @@
+[2025-03-21 13:42:37,563] 30 root - INFO - DataProcessing Intialized
+[2025-03-21 13:42:39,772] 35 root - INFO - data loaded succcessfully
+[2025-03-21 13:42:43,772] 51 root - INFO - scalling done for processing
+[2025-03-21 13:42:44,165] 70 root - INFO - encoding done for User and anime
+[2025-03-21 13:42:44,165] 163 root - INFO - Data Processing pipelien run sucessfully

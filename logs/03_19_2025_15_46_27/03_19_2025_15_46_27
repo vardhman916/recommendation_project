@@ -1,0 +1,7 @@
+[2025-03-19 15:46:27,557] 17 root - INFO - Succesfully read the yaml file
+[2025-03-19 15:46:27,557] 18 root - INFO - Data Ingestion started....
+[2025-03-19 15:46:27,557] 48 root - INFO - starting data ingestion
+[2025-03-19 15:46:30,579] 142 google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+[2025-03-19 15:46:34,541] 142 google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+[2025-03-19 15:46:39,419] 142 google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+[2025-03-19 15:46:39,419] 362 google.auth._default - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.

@@ -1,0 +1,14 @@
+[2025-03-24 18:45:12,124] 307 sentry_sdk.errors - WARNING - Rate-limited via x-sentry-rate-limits
+[2025-03-24 18:45:20,148] 24 root - INFO - Model Training and comet_ml  intialized
+[2025-03-24 18:45:20,997] 33 root - INFO - data loaded succesfully for Model Training
+[2025-03-24 18:45:21,255] 33 root - INFO - data loaded succesfully for Model Training
+[2025-03-24 18:45:21,334] 17 root - INFO - Succesfully read the yaml file
+[2025-03-24 18:45:21,334] 13 root - INFO - Loaded config from config.yaml
+[2025-03-24 18:46:33,004] 86 root - INFO - Model Training Completed...
+[2025-03-24 18:46:33,025] 83 absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-03-24 18:46:33,171] 114 root - INFO - model saved to artifacts/model\model.h5
+[2025-03-24 18:46:33,901] 126 root - INFO - user and anime weight saved successfully
+[2025-03-24 18:46:33,949] 83 absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-03-24 18:46:34,164] 114 root - INFO - model saved to artifacts/model\model.h5
+[2025-03-24 18:46:34,305] 126 root - INFO - user and anime weight saved successfully
+[2025-03-24 18:46:34,305] 137 root - INFO - Data Processing pipelien run sucessfully

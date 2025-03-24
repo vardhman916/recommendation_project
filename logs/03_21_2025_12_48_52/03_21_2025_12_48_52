@@ -1,0 +1,6 @@
+[2025-03-21 12:48:58,686] 17 root - INFO - Succesfully read the yaml file
+[2025-03-21 12:48:58,686] 18 root - INFO - Data Ingestion started....
+[2025-03-21 12:48:58,686] 47 root - INFO - starting data ingestion
+[2025-03-21 12:53:57,158] 36 root - INFO - Large file detected only downloading 5M rows
+[2025-03-21 12:53:57,171] 49 root - INFO - data ingestion completed...
+[2025-03-21 12:53:57,172] 30 root - INFO - DataProcessing Intialized

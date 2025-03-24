@@ -1,0 +1,13 @@
+[2025-03-24 00:31:44,776] 18 root - INFO - Model Training intialized
+[2025-03-24 00:31:45,179] 27 root - INFO - data loaded succesfully for Model Training
+[2025-03-24 00:31:45,498] 27 root - INFO - data loaded succesfully for Model Training
+[2025-03-24 00:31:45,643] 17 root - INFO - Succesfully read the yaml file
+[2025-03-24 00:31:45,643] 13 root - INFO - Loaded config from config.yaml
+[2025-03-24 00:50:35,837] 80 root - INFO - Model Training Completed...
+[2025-03-24 00:50:35,845] 83 absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-03-24 00:50:36,128] 101 root - INFO - model saved to artifacts/model\model.h5
+[2025-03-24 00:50:36,196] 109 root - INFO - user and anime weight saved successfully
+[2025-03-24 00:50:36,210] 83 absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-03-24 00:50:36,307] 101 root - INFO - model saved to artifacts/model\model.h5
+[2025-03-24 00:50:36,340] 109 root - INFO - user and anime weight saved successfully
+[2025-03-24 00:50:36,347] 120 root - INFO - Data Processing pipelien run sucessfully

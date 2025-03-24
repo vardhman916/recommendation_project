@@ -1,0 +1,5 @@
+[2025-03-23 16:31:51,965] 18 root - INFO - Model Training intialized
+[2025-03-23 16:31:52,151] 27 root - INFO - data loaded succesfully for Model Training
+[2025-03-23 16:31:52,346] 27 root - INFO - data loaded succesfully for Model Training
+[2025-03-23 16:31:52,396] 17 root - INFO - Succesfully read the yaml file
+[2025-03-23 16:31:52,396] 13 root - INFO - Loaded config from config.yaml

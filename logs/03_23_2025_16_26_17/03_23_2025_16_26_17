@@ -1,0 +1,8 @@
+[2025-03-23 16:26:23,455] 18 root - INFO - Model Training intialized
+[2025-03-23 16:26:23,612] 27 root - INFO - data loaded succesfully for Model Training
+[2025-03-23 16:26:23,758] 27 root - INFO - data loaded succesfully for Model Training
+[2025-03-23 16:26:23,805] 17 root - INFO - Succesfully read the yaml file
+[2025-03-23 16:26:23,805] 13 root - INFO - Loaded config from config.yaml
+[2025-03-23 16:27:23,444] 80 root - INFO - Model Training Completed...
+[2025-03-23 16:27:23,444] 83 absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-03-23 16:27:23,546] 101 root - INFO - model saved to artifacts/model\model.h5
