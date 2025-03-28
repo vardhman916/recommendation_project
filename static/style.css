@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;700&family=Poppins:wght@300;400;600&display=swap');
+
+body {
+    background-image: url('https://wallpapercave.com/wp/wp6353824.jpg'); /* Anime-themed background */
+    background-size: cover;
+    background-position: center;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.form-container {
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 15px;
+    padding: 30px;
+    width: 40%;
+    margin: 10% auto;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+}
+
+h1 {
+    font-family: 'Kanit', sans-serif;
+    font-size: 32px;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+label {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button {
+    background: linear-gradient(45deg, #ff416c, #ff4b2b);
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: linear-gradient(45deg, #ff4b2b, #ff416c);
+    transform: scale(1.05);
+}
+
+.results-container {
+    margin-top: 20px;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+    width: 60%;
+    margin: auto;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    font-size: 20px;
+    margin: 8px 0;
+    font-weight: bold;
+    color: #ffcc00;
+    transition: 0.3s;
+}
+
+li:hover {
+    color: #ff4b2b;
+    transform: scale(1.1);
+}
